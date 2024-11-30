@@ -1,0 +1,8 @@
+{
+    "screen_width": 640,
+    "screen_height": 480,
+    "max_frame_rate": 60,
+    "font_path": "./img/font.png",
+    "sound_volume": 0.8,
+    "music_volume": 0.5
+}
